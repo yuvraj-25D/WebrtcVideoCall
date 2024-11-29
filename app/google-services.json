@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471783622408",
+    "project_id": "fir-videocall-88779",
+    "storage_bucket": "fir-videocall-88779.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471783622408:android:fa61e0353b933843b88ebd",
+        "android_client_info": {
+          "package_name": "com.yuvraj.videocall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvPkTuKbMiF1RW9N2l1bobawhWMNW1Fqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
